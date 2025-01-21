@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 - 🤔 I’m looking for help with [linking front and backend of the website]
 - 💬 Ask me about [on how to syle your webpage]
 - 📫 How to reach me: [email pravinomondi26@gmail.com]
-- 😄 Pronouns: [Your Pronouns]
+- 😄 Pronouns: [shout out to @yb_method and @official lil30c]
 - ⚡ Fun fact: [i like codding and bikelife]
 
 ## 🛠️ Tech Stack
