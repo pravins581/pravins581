@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Focus]
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
-- 🤔 I’m looking for help with [Areas Where You Need Help]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
+- 💻 I’m currently working on [yungbludz fashion and music website]
+- 🌱 I’m currently learning [website developer]
+- 👯 I’m looking to collaborate on [html and css ]
+- 🤔 I’m looking for help with [linking front and backend of the website]
+- 💬 Ask me about [on how to syle your webpage]
+- 📫 How to reach me: [email pravinomondi26@gmail.com]
 - 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [An Interesting Fact About You]
+- ⚡ Fun fact: [i like codding and bikelife]
 
 ## 🛠️ Tech Stack
 
-- **Languages:** [Your Programming Languages]
+- **Languages:** [mainly html and css]
 - **Frameworks:** [Your Frameworks]
 - **Tools & Platforms:** [Your Tools and Platforms]
 - **Databases:** [Your Databases]
