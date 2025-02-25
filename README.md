@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 - 💻 I’m currently working on [yungbludz fashion and music website]
 - 🌱 I’m currently learning [website developer]
-- 👯 I’m looking to collaborate on [html and css ]
+- 👯 I’m looking to collaborate on [html,css and PHP]
 - 🤔 I’m looking for help with [linking front and backend of the website]
 - 💬 Ask me about [on how to syle your webpage]
 - 📫 How to reach me: [email pravinomondi26@gmail.com]
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 - **Languages:** [mainly html and css]
 - **Frameworks:** [Your Frameworks]
-- **Tools & Platforms:** [Your Tools and Platforms]
-- **Databases:** [Your Databases]
+- **Tools & Platforms:** [XAMMP AND INFINITY FREE]
+- **Databases:** [PHP MY ADMIN ,MY SQL]
 - **Other:** [Any Other Technologies or Skills]
 
 ## 📈 GitHub Stats
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 ## 🏆 Achievements
 
-- [Your Achievements or Certifications]
+- [I managed to create a reponsive backend and frontend]
 
 ## 📫 Connect with Me
 
